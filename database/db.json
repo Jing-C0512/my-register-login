@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "id": "4123",
+      "username": "Raymond",
+      "password": "$2b$07$FdYA1MtT1ef2mJo6dwKhwOVs2zw40nBJrA0T0vzb9ODEwIqTHazwm"
+    },
+    {
+      "id": "0966",
+      "username": "Tianyang",
+      "password": "$2b$07$5KssAvCe.Cmap.s7DlNQduzfontzvmQp1l11de8lgPo490eorAu8q"
+    },
+    {
+      "id": "18a6",
+      "username": "CJ",
+      "password": "$2b$07$ICSj2kZuWsTk/XtlBjEwXOcXs/eg/bsI0CXpuEcDzy3/wS7aOpRSW"
+    }
+  ],
+  "bcrypt": [
+    {
+      "id": "1",
+      "saltRounds": 7
+    },
+    {
+      "id": "2",
+      "saltRounds": 10
+    }
+  ]
+}
